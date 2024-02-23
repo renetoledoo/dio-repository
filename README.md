@@ -1,6 +1,6 @@
 # Formação Java Developer
 
-![Logo do site](https://hermes.dio.me/tracks/da6041a9-80ef-409e-bd50-5e7be4dfadf6.png)
+<img src="https://hermes.dio.me/tracks/da6041a9-80ef-409e-bd50-5e7be4dfadf6.png" alt="Logo do site" width="200"/>
 
 
 Este repositório contém os materiais e projetos desenvolvidos durante a Formação Java Developer
